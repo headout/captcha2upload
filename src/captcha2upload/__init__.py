@@ -1,1 +1,1 @@
-from .captcha2upload import CaptchaUpload
+from .captcha2upload-case-sensitive import captcha2UploadCaseSensitive.py
