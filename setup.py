@@ -3,7 +3,7 @@ from distutils.core import setup
 setup(
     name='captcha2uploadcasesensitive',
     packages=['captcha2uploadcasesensitive'],
-    package_dir={'captcha2uploadcasesensitive': 'src/captcha2upload_case_sensitive'},
+    package_dir={'captcha2uploadcasesensitive': 'src/captcha2uploadcasesensitive'},
     version='0.2',
     install_requires=['requests'],
     description='Upload your image and solve captche using the 2Captcha '
