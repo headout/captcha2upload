@@ -8,9 +8,9 @@ setup(
     install_requires=['requests'],
     description='Upload your image and solve captche using the 2Captcha '
                   'Service',
-    author='Alessandro Sbarbati',
-    author_email='miriodev@gmail.com',
-    url='https://github.com/Mirio/captcha2upload',
+    author='Priyanka Biswas',
+    author_email='priyanka.biswas@headout.com',
+    url='https://github.com/headout/captcha2uploadcasesensitive/',
     download_url='https://github.com/Mirio/captcha2upload/tarball/0.1',
     keywords=['2captcha', 'captcha', 'Image Recognition'],
     classifiers=["Topic :: Scientific/Engineering :: Image Recognition"],
